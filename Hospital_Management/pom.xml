@@ -9,6 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>frank.hm.Hospital_Management</exec.mainClass>
+        <exec.mainClass>Hospital_Management</exec.mainClass>
     </properties>
 </project>

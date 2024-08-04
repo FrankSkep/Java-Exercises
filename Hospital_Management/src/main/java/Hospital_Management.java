@@ -1,4 +1,3 @@
-package frank.hm;
 
 import Modelos.CitaMedica;
 import Modelos.Enfermera;
