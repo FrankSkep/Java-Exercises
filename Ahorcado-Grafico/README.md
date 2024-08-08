@@ -1,7 +1,7 @@
 ## <h2 align="center">Ahorcado</h2>
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/FrankSkep/Ahorcado-Java/main/pics/1.png"><img/>
+   <img src="https://raw.githubusercontent.com/FrankSkep/Java-Exercises/main/Ahorcado-Grafico/pics/2.png"><img/>
 </div>
 
 Juego simple del ahorcado implementado en Java.
